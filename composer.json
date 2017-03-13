@@ -8,7 +8,7 @@
     "require": {
         "php": ">=5.4",
         "google/auth": "^0.11",
-        "RallyPages/apiclient-services": "v0.11",
+        "RallyPages/google-api-php-client-services": "v0.11",
         "firebase/php-jwt": "~2.0|~3.0|~4.0",
         "monolog/monolog": "^1.17",
         "phpseclib/phpseclib": "~0.3.10|~2.0",
@@ -42,10 +42,10 @@
         {
             "type": "package",
             "package": {
-                "name": "RallyPages/apiclient-services",
+                "name": "RallyPages/google-api-php-client-services",
                 "version": "v0.11",
                 "source": {
-                    "url": "https://github.com/RallyPages/NeoEloquent.git",
+                    "url": "https://github.com/RallyPages/google-api-php-client-services.git",
                     "type": "git",
                     "reference": "v0.11"
                 },
